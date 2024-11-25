@@ -19,6 +19,7 @@ def mySum(sumLength, sumList):
     return result
 def sum(a, b):
     print('Sum = ',a+b)
+    print('This was a test for B2')
     
 def mean(sumLength, sumList):
     """Calculates the mean (average) of the numbers in the sumList variable."""
