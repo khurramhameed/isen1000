@@ -19,7 +19,8 @@ def mySum(sumLength, sumList):
     return result
 def sum(a, b):
     print('Sum = ',a+b)
-    
+    print('The changes remain to specific branch only')
+
 def mean(sumLength, sumList):
     """Calculates the mean (average) of the numbers in the sumList variable."""
     theSum = mySum(sumLength, sumList)
